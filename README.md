@@ -1,4 +1,4 @@
-# SYSTEMA: El Sistema Abierto Organizacional
+# SISTEMA: El Sistema Abierto Organizacional
 
 Revista digital interactiva desarrollada para evaluar la aplicabilidad de la Teoría General de Sistemas (TGS) y la Teoría del Caos dentro del entorno organizacional. 
 
